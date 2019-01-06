@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Lucio Henrique
+ * @author Lucio Henrique Costa
  */
 public class Conversao {
 
